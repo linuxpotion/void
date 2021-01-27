@@ -1,0 +1,21 @@
+dosfstools
+xf86-video-intel 
+xorg-minimal
+libva-intel-driver
+mesa
+mesa-dri
+mesa-intel-dri
+mesa-vaapi
+mesa-vulkan-intel 
+vkd3d
+vkBasalt
+x86_energy_perf_policy 
+lightdm-webkit2-greeter
+
+linux5.10-xanmod (sirn/void-packages)
+
+-------------------------------------
+Fondo                 (Flathub)
+Dialect               (Flathub)
+VGrive                (Flathub)
+-------------------------------------

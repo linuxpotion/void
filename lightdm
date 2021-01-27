@@ -1,0 +1,4 @@
+Editar /etc/lightdm/lightdm.conf e definir greeter-session=lightdm-webkit2-greeter.
+Editar /etc/lightdm/lightdm-webkit.conf e definir theme ou webkit-theme para "litarvan".
+
+https://github.com/Litarvan/lightdm-webkit-theme-litarvan
