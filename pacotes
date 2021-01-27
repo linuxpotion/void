@@ -11,6 +11,11 @@ vkd3d
 vkBasalt
 x86_energy_perf_policy 
 lightdm-webkit2-greeter
+bash-completion
+cpupower
+elogind
+vulkan-loader
+wpa_gui
 
 linux5.10-xanmod (sirn/void-packages)
 
